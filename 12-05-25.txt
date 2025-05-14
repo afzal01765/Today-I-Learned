@@ -1,3 +1,0 @@
-1.learn javaScript arrow function and solve 50 Problems . 
-2. connect with pc and webcam . 
-4.Django DRF and Book api 
